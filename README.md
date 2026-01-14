@@ -1,5 +1,5 @@
 
-[Random Test](192.168.4.79:1111)
+[Random Test](http://192.168.4.79:1111)
 # Fabric Example Mod
 
 ## Setup
