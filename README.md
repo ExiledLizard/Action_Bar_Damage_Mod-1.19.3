@@ -1,4 +1,4 @@
-
+[test](https://insane-sdk-8k2c.pagedrop.io/)
 # Fabric Example Mod
 
 ## Setup
